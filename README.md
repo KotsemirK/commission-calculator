@@ -9,7 +9,7 @@ This project calculates commission fees for financial operations based on provid
 ## Installation
 1. Clone the repository:
 
-   git clone <commission-calculator>
+   git clone https://github.com/KotsemirK/commission-calculator
 
 2. Install dependencies:
 
